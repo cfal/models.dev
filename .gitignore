@@ -1,7 +1,6 @@
 .env
 .sst
 .idea
-dist
 .DS_Store
 node_modules
 data/tokenspeed-monitor.sqlite
